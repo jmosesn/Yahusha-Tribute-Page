@@ -1,0 +1,60 @@
+body {
+  color: black;
+  font-family: 'Merriweather', serif;
+}
+
+h6 {
+  color: white;
+  padding-top: 1rem;
+}
+
+/* Headings */
+.big-heading {
+  color: white;
+  font-size: 3.3rem;
+  line-height: 1.2;
+  font-weight: 400;
+  padding-top: 4rem;
+}
+
+.sub-heading {
+  color: white;
+}
+
+/* Containers */
+.container-fluid {
+  padding: 4% 11%;
+}
+
+/* Top & Bottom Sections */
+.top-section {
+  background-color: black;
+}
+
+.bottom-section {
+  background-color: white;
+  padding: 3% 11%;
+}
+
+/* Title Image */
+.black-jesus {
+  width: 85%;
+}
+
+/* Footer Section */
+.footer {
+  background-color: black;
+  text-align: center;
+  color: white;
+  margin-top: 0;
+}
+
+.etsy-link {
+  font-size: 1.7rem;
+}
+
+.copyright {
+  color: white;
+  font-size: 1rem;
+  padding-top: 2rem;
+}
